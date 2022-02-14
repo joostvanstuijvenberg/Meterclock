@@ -1,0 +1,22 @@
+I/O	Usage	Description
+----	-----	------------------------
+IO01	
+IO02
+IO03
+IO04	
+IO05	OUT	LED 1 (red)
+IO06	OUT	LED 2 (white)
+IO07	OUT	LED 3 (blue)
+IO08	
+IO09	OUT	Meter 1 (hours)
+IO10	OUT	Meter 2 (minutes)
+IO11	OUT	Meter 3 (seconds)
+IO12	IN	Button 1
+IO13	IN	Button 2
+
+A0	
+A1	
+A2	
+A3	
+A4	
+A5	
